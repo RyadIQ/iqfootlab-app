@@ -23,9 +23,17 @@ def login_page():
     if st.button("Se connecter"):
         if authenticate(email, password):
             st.session_state.authenticated = True
-            st.success("Connexion réussie")
+            st.rerun()  # ✅ rerun officiel Streamlit
         else:
             st.error("Email ou mot de passe incorrect")
+
+# =========================
+# LOGOUT
+# =========================
+def logout_button():
+    if st.sidebar.button("🔓 Déconnexion"):
+        st.session_state.authenticated = False
+        st.rerun()
 
 # =========================
 # ROUTING
@@ -33,4 +41,6 @@ def login_page():
 if not st.session_state.authenticated:
     login_page()
 else:
+    logout_button()
     dashboard_app.run()
+

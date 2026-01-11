@@ -1,3 +1,28 @@
+st.markdown("""
+<style>
+body {
+    background-color: #f7f8fa;
+}
+
+.card {
+    background: white;
+    padding: 20px;
+    border-radius: 16px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+    margin-bottom: 20px;
+}
+
+.big {
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.small {
+    color: #6b7280;
+}
+</style>
+""", unsafe_allow_html=True)
+
 import streamlit as st
 import json
 import pandas as pd

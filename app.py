@@ -184,3 +184,7 @@ elif page == "🔥 Heatmap":
     ax.axis("off")
 
     st.pyplot(fig)
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes

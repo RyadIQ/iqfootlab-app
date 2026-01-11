@@ -1,4 +1,9 @@
 import streamlit as st
+import json
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import os
 st.markdown("""
 <style>
 body {
@@ -23,13 +28,6 @@ body {
 }
 </style>
 """, unsafe_allow_html=True)
-
-import streamlit as st
-import json
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import os
 
 # =========================
 # CONFIG UI

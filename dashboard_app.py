@@ -6,46 +6,18 @@ import matplotlib.pyplot as plt
 import os
 
 def run():
-
     # =========================
-    # STYLE SOBRE & PRO
+    # STYLE
     # =========================
     st.markdown("""
     <style>
-    body {
-        background-color: #f7f8fa;
-    }
-
-    .block-container {
-        padding-top: 2rem;
-    }
-
+    body { background-color: #f7f8fa; }
     .card {
         background: white;
         padding: 20px;
         border-radius: 14px;
         box-shadow: 0 4px 10px rgba(0,0,0,0.05);
         margin-bottom: 20px;
-    }
-
-    .title {
-        font-size: 26px;
-        font-weight: 700;
-    }
-
-    .subtitle {
-        color: #6b7280;
-        font-size: 14px;
-    }
-
-    .metric {
-        font-size: 24px;
-        font-weight: 700;
-    }
-
-    .label {
-        color: #6b7280;
-        font-size: 13px;
     }
     </style>
     """, unsafe_allow_html=True)
@@ -54,25 +26,18 @@ def run():
     # SIDEBAR
     # =========================
     st.sidebar.markdown("### IQ FootLab")
-    st.sidebar.markdown("Analyse intelligente du match")
-
     page = st.sidebar.radio(
         "Navigation",
         ["📌 Vue Match", "👥 Joueurs", "🔥 Heatmap"]
     )
 
     # =========================
-    # LOAD DATA
+    # DATA
     # =========================
     MATCHES_DIR = "data/matches"
-
-    if not os.path.exists(MATCHES_DIR):
-        st.error("Dossier data/matches introuvable")
-        st.stop()
-
     matches = sorted(os.listdir(MATCHES_DIR), reverse=True)
+    selected_match = st.sidebar.selectbox("Match", matches)
 
-    selected_match = st.sidebar.selectbox("📅 Match", matches)
     match_path = os.path.join(MATCHES_DIR, selected_match)
 
     with open(os.path.join(match_path, "match_stats.json")) as f:
@@ -92,88 +57,25 @@ def run():
     # =========================
     st.markdown(f"""
     <div class="card">
-        <div class="title">Analyse du match</div>
-        <div class="subtitle">{selected_match.replace("_", " ")}</div>
+        <h2>Analyse du match</h2>
+        <p>{selected_match}</p>
     </div>
     """, unsafe_allow_html=True)
 
-    # =====================================================
-    # PAGE — MATCH
-    # =====================================================
+    # =========================
+    # PAGES
+    # =========================
     if page == "📌 Vue Match":
+        st.markdown(f"<div class='card'>Équipe dominante : <b>{reading['dominant_mobility_team']}</b></div>", unsafe_allow_html=True)
 
-        col1, col2, col3 = st.columns(3)
-
-        with col1:
-            st.markdown(f"""
-            <div class="card">
-                <div class="label">Équipe dominante</div>
-                <div class="metric">{reading["dominant_mobility_team"]}</div>
-            </div>
-            """, unsafe_allow_html=True)
-
-        with col2:
-            st.markdown(f"""
-            <div class="card">
-                <div class="label">Écart d’intensité</div>
-                <div class="metric">{reading["mobility_gap"]}</div>
-            </div>
-            """, unsafe_allow_html=True)
-
-        with col3:
-            st.markdown("""
-            <div class="card">
-                <div class="label">Joueurs analysés</div>
-                <div class="metric">22</div>
-            </div>
-            """, unsafe_allow_html=True)
-
-        st.markdown("### 🧠 Lecture coach")
-
-        if reading["mobility_gap"] > 5:
-            st.success(f"{reading['dominant_mobility_team']} a dominé physiquement le match.")
-        else:
-            st.info("Match équilibré sur le plan physique.")
-
-    # =====================================================
-    # PAGE — JOUEURS
-    # =====================================================
     elif page == "👥 Joueurs":
+        st.dataframe(df_players, use_container_width=True)
 
-        st.markdown("### 👥 Joueurs clés")
-
-        top_players = df_players.sort_values("distance_vs_team", ascending=False).head(5)
-
-        for pid, row in top_players.iterrows():
-            st.markdown(f"""
-            <div class="card">
-                <strong>{pid}</strong><br/>
-                Indice d’activité : <strong>{round(row["distance_vs_team"], 2)}</strong>
-            </div>
-            """, unsafe_allow_html=True)
-
-        with st.expander("Voir tous les joueurs"):
-            st.dataframe(
-                df_players.sort_values("distance_vs_team", ascending=False),
-                use_container_width=True
-            )
-
-    # =====================================================
-    # PAGE — HEATMAP
-    # =====================================================
     elif page == "🔥 Heatmap":
-
-        selected_player = st.selectbox(
-            "Sélectionner un joueur",
-            list(positions.keys())
-        )
-
-        coords = np.array(positions[selected_player])
-
-        fig, ax = plt.subplots(figsize=(6, 10))
-        ax.hist2d(coords[:, 0], coords[:, 1], bins=40, cmap="hot")
+        player = st.selectbox("Joueur", list(positions.keys()))
+        coords = np.array(positions[player])
+        fig, ax = plt.subplots()
+        ax.hist2d(coords[:, 0], coords[:, 1], bins=40)
         ax.invert_yaxis()
         ax.axis("off")
-
         st.pyplot(fig)
-

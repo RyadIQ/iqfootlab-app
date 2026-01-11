@@ -23,7 +23,7 @@ def login_page():
     if st.button("Se connecter"):
         if authenticate(email, password):
             st.session_state.authenticated = True
-            st.experimental_rerun()
+            st.success("Connexion réussie")
         else:
             st.error("Email ou mot de passe incorrect")
 

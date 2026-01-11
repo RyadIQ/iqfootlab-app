@@ -7,7 +7,7 @@ import os
 from PIL import Image
 
 # =========================
-# CONFIG
+# CONFIG STREAMLIT
 # =========================
 st.set_page_config(
     page_title="IQ FootLab",
@@ -58,7 +58,7 @@ body {
 """, unsafe_allow_html=True)
 
 # =========================
-# SIDEBAR (RESTAURÉE)
+# SIDEBAR
 # =========================
 logo_path = "assets/logo.png"
 
@@ -78,6 +78,11 @@ with st.sidebar:
 # LOAD DATA
 # =========================
 MATCHES_DIR = "data/matches"
+
+if not os.path.exists(MATCHES_DIR):
+    st.error("Dossier data/matches introuvable")
+    st.stop()
+
 matches = sorted(os.listdir(MATCHES_DIR), reverse=True)
 
 selected_match = st.sidebar.selectbox("📅 Match", matches)
@@ -184,7 +189,4 @@ elif page == "🔥 Heatmap":
     ax.axis("off")
 
     st.pyplot(fig)
-<<<<<<< Updated upstream
-=======
 
->>>>>>> Stashed changes

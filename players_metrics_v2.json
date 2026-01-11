@@ -1,0 +1,508 @@
+{
+  "16": {
+    "raw": {
+      "distance_total_m": 37.0,
+      "dynamic_efforts": 61,
+      "strong_dynamic_efforts": 42,
+      "max_acceleration_m_s2": 36.43,
+      "time_played_min": 0.96
+    },
+    "per_min": {
+      "distance_m_per_min": 38.54,
+      "efforts_per_min": 63.54
+    },
+    "percentiles": {
+      "distance": 100,
+      "efforts": 100,
+      "acceleration": 86
+    },
+    "indices": {
+      "mobility": 1.21,
+      "intensity": 1.34,
+      "explosivity": 0.69
+    }
+  },
+  "15": {
+    "raw": {
+      "distance_total_m": 29.6,
+      "dynamic_efforts": 56,
+      "strong_dynamic_efforts": 42,
+      "max_acceleration_m_s2": 15.05,
+      "time_played_min": 0.93
+    },
+    "per_min": {
+      "distance_m_per_min": 31.83,
+      "efforts_per_min": 60.22
+    },
+    "percentiles": {
+      "distance": 90,
+      "efforts": 95,
+      "acceleration": 40
+    },
+    "indices": {
+      "mobility": 1.0,
+      "intensity": 1.27,
+      "explosivity": 0.75
+    }
+  },
+  "198": {
+    "raw": {
+      "distance_total_m": 2.8,
+      "dynamic_efforts": 15,
+      "strong_dynamic_efforts": 2,
+      "max_acceleration_m_s2": 5.14,
+      "time_played_min": 0.75
+    },
+    "per_min": {
+      "distance_m_per_min": 3.73,
+      "efforts_per_min": 20.0
+    },
+    "percentiles": {
+      "distance": 31,
+      "efforts": 36,
+      "acceleration": 13
+    },
+    "indices": {
+      "mobility": 0.12,
+      "intensity": 0.42,
+      "explosivity": 0.13
+    }
+  },
+  "196": {
+    "raw": {
+      "distance_total_m": 1.9,
+      "dynamic_efforts": 11,
+      "strong_dynamic_efforts": 4,
+      "max_acceleration_m_s2": 2.86,
+      "time_played_min": 0.75
+    },
+    "per_min": {
+      "distance_m_per_min": 2.53,
+      "efforts_per_min": 14.67
+    },
+    "percentiles": {
+      "distance": 18,
+      "efforts": 27,
+      "acceleration": 9
+    },
+    "indices": {
+      "mobility": 0.08,
+      "intensity": 0.31,
+      "explosivity": 0.36
+    }
+  },
+  "81": {
+    "raw": {
+      "distance_total_m": 35.9,
+      "dynamic_efforts": 45,
+      "strong_dynamic_efforts": 35,
+      "max_acceleration_m_s2": 32.38,
+      "time_played_min": 0.75
+    },
+    "per_min": {
+      "distance_m_per_min": 47.87,
+      "efforts_per_min": 60.0
+    },
+    "percentiles": {
+      "distance": 95,
+      "efforts": 90,
+      "acceleration": 72
+    },
+    "indices": {
+      "mobility": 1.5,
+      "intensity": 1.26,
+      "explosivity": 0.78
+    }
+  },
+  "197": {
+    "raw": {
+      "distance_total_m": 2.1,
+      "dynamic_efforts": 8,
+      "strong_dynamic_efforts": 3,
+      "max_acceleration_m_s2": 14.59,
+      "time_played_min": 0.64
+    },
+    "per_min": {
+      "distance_m_per_min": 3.28,
+      "efforts_per_min": 12.5
+    },
+    "percentiles": {
+      "distance": 22,
+      "efforts": 22,
+      "acceleration": 36
+    },
+    "indices": {
+      "mobility": 0.1,
+      "intensity": 0.26,
+      "explosivity": 0.38
+    }
+  },
+  "201": {
+    "raw": {
+      "distance_total_m": 0.6,
+      "dynamic_efforts": 2,
+      "strong_dynamic_efforts": 1,
+      "max_acceleration_m_s2": 14.2,
+      "time_played_min": 0.62
+    },
+    "per_min": {
+      "distance_m_per_min": 0.97,
+      "efforts_per_min": 3.23
+    },
+    "percentiles": {
+      "distance": 9,
+      "efforts": 9,
+      "acceleration": 31
+    },
+    "indices": {
+      "mobility": 0.03,
+      "intensity": 0.07,
+      "explosivity": 0.5
+    }
+  },
+  "202": {
+    "raw": {
+      "distance_total_m": 0.7,
+      "dynamic_efforts": 2,
+      "strong_dynamic_efforts": 2,
+      "max_acceleration_m_s2": 6.16,
+      "time_played_min": 0.62
+    },
+    "per_min": {
+      "distance_m_per_min": 1.13,
+      "efforts_per_min": 3.23
+    },
+    "percentiles": {
+      "distance": 13,
+      "efforts": 9,
+      "acceleration": 18
+    },
+    "indices": {
+      "mobility": 0.04,
+      "intensity": 0.07,
+      "explosivity": 1.0
+    }
+  },
+  "200": {
+    "raw": {
+      "distance_total_m": 2.9,
+      "dynamic_efforts": 23,
+      "strong_dynamic_efforts": 0,
+      "max_acceleration_m_s2": 8.16,
+      "time_played_min": 0.6
+    },
+    "per_min": {
+      "distance_m_per_min": 4.83,
+      "efforts_per_min": 38.33
+    },
+    "percentiles": {
+      "distance": 36,
+      "efforts": 77,
+      "acceleration": 27
+    },
+    "indices": {
+      "mobility": 0.15,
+      "intensity": 0.81,
+      "explosivity": 0.0
+    }
+  },
+  "199": {
+    "raw": {
+      "distance_total_m": 0.2,
+      "dynamic_efforts": 4,
+      "strong_dynamic_efforts": 0,
+      "max_acceleration_m_s2": 2.26,
+      "time_played_min": 0.6
+    },
+    "per_min": {
+      "distance_m_per_min": 0.33,
+      "efforts_per_min": 6.67
+    },
+    "percentiles": {
+      "distance": 4,
+      "efforts": 13,
+      "acceleration": 4
+    },
+    "indices": {
+      "mobility": 0.01,
+      "intensity": 0.14,
+      "explosivity": 0.0
+    }
+  },
+  "46": {
+    "raw": {
+      "distance_total_m": 27.0,
+      "dynamic_efforts": 33,
+      "strong_dynamic_efforts": 24,
+      "max_acceleration_m_s2": 80.98,
+      "time_played_min": 0.46
+    },
+    "per_min": {
+      "distance_m_per_min": 58.7,
+      "efforts_per_min": 71.74
+    },
+    "percentiles": {
+      "distance": 86,
+      "efforts": 86,
+      "acceleration": 100
+    },
+    "indices": {
+      "mobility": 1.84,
+      "intensity": 1.51,
+      "explosivity": 0.73
+    }
+  },
+  "144": {
+    "raw": {
+      "distance_total_m": 19.7,
+      "dynamic_efforts": 21,
+      "strong_dynamic_efforts": 16,
+      "max_acceleration_m_s2": 37.93,
+      "time_played_min": 0.41
+    },
+    "per_min": {
+      "distance_m_per_min": 48.05,
+      "efforts_per_min": 51.22
+    },
+    "percentiles": {
+      "distance": 77,
+      "efforts": 68,
+      "acceleration": 90
+    },
+    "indices": {
+      "mobility": 1.5,
+      "intensity": 1.08,
+      "explosivity": 0.76
+    }
+  },
+  "1": {
+    "raw": {
+      "distance_total_m": 22.2,
+      "dynamic_efforts": 28,
+      "strong_dynamic_efforts": 23,
+      "max_acceleration_m_s2": 18.44,
+      "time_played_min": 0.4
+    },
+    "per_min": {
+      "distance_m_per_min": 55.5,
+      "efforts_per_min": 70.0
+    },
+    "percentiles": {
+      "distance": 81,
+      "efforts": 81,
+      "acceleration": 50
+    },
+    "indices": {
+      "mobility": 1.74,
+      "intensity": 1.47,
+      "explosivity": 0.82
+    }
+  },
+  "150": {
+    "raw": {
+      "distance_total_m": 6.8,
+      "dynamic_efforts": 20,
+      "strong_dynamic_efforts": 8,
+      "max_acceleration_m_s2": 30.42,
+      "time_played_min": 0.4
+    },
+    "per_min": {
+      "distance_m_per_min": 17.0,
+      "efforts_per_min": 50.0
+    },
+    "percentiles": {
+      "distance": 40,
+      "efforts": 59,
+      "acceleration": 68
+    },
+    "indices": {
+      "mobility": 0.53,
+      "intensity": 1.05,
+      "explosivity": 0.4
+    }
+  },
+  "133": {
+    "raw": {
+      "distance_total_m": 15.1,
+      "dynamic_efforts": 22,
+      "strong_dynamic_efforts": 14,
+      "max_acceleration_m_s2": 33.86,
+      "time_played_min": 0.32
+    },
+    "per_min": {
+      "distance_m_per_min": 47.19,
+      "efforts_per_min": 68.75
+    },
+    "percentiles": {
+      "distance": 68,
+      "efforts": 72,
+      "acceleration": 81
+    },
+    "indices": {
+      "mobility": 1.48,
+      "intensity": 1.45,
+      "explosivity": 0.64
+    }
+  },
+  "161": {
+    "raw": {
+      "distance_total_m": 10.3,
+      "dynamic_efforts": 16,
+      "strong_dynamic_efforts": 11,
+      "max_acceleration_m_s2": 32.4,
+      "time_played_min": 0.31
+    },
+    "per_min": {
+      "distance_m_per_min": 33.23,
+      "efforts_per_min": 51.61
+    },
+    "percentiles": {
+      "distance": 45,
+      "efforts": 45,
+      "acceleration": 77
+    },
+    "indices": {
+      "mobility": 1.04,
+      "intensity": 1.09,
+      "explosivity": 0.69
+    }
+  },
+  "12": {
+    "raw": {
+      "distance_total_m": 13.8,
+      "dynamic_efforts": 21,
+      "strong_dynamic_efforts": 16,
+      "max_acceleration_m_s2": 62.61,
+      "time_played_min": 0.28
+    },
+    "per_min": {
+      "distance_m_per_min": 49.29,
+      "efforts_per_min": 75.0
+    },
+    "percentiles": {
+      "distance": 59,
+      "efforts": 68,
+      "acceleration": 95
+    },
+    "indices": {
+      "mobility": 1.54,
+      "intensity": 1.58,
+      "explosivity": 0.76
+    }
+  },
+  "28": {
+    "raw": {
+      "distance_total_m": 12.4,
+      "dynamic_efforts": 19,
+      "strong_dynamic_efforts": 15,
+      "max_acceleration_m_s2": 21.84,
+      "time_played_min": 0.27
+    },
+    "per_min": {
+      "distance_m_per_min": 45.93,
+      "efforts_per_min": 70.37
+    },
+    "percentiles": {
+      "distance": 54,
+      "efforts": 54,
+      "acceleration": 59
+    },
+    "indices": {
+      "mobility": 1.44,
+      "intensity": 1.48,
+      "explosivity": 0.79
+    }
+  },
+  "49": {
+    "raw": {
+      "distance_total_m": 15.1,
+      "dynamic_efforts": 17,
+      "strong_dynamic_efforts": 14,
+      "max_acceleration_m_s2": 25.96,
+      "time_played_min": 0.23
+    },
+    "per_min": {
+      "distance_m_per_min": 65.65,
+      "efforts_per_min": 73.91
+    },
+    "percentiles": {
+      "distance": 68,
+      "efforts": 50,
+      "acceleration": 63
+    },
+    "indices": {
+      "mobility": 2.06,
+      "intensity": 1.56,
+      "explosivity": 0.82
+    }
+  },
+  "131": {
+    "raw": {
+      "distance_total_m": 17.0,
+      "dynamic_efforts": 16,
+      "strong_dynamic_efforts": 13,
+      "max_acceleration_m_s2": 19.25,
+      "time_played_min": 0.22
+    },
+    "per_min": {
+      "distance_m_per_min": 77.27,
+      "efforts_per_min": 72.73
+    },
+    "percentiles": {
+      "distance": 72,
+      "efforts": 45,
+      "acceleration": 54
+    },
+    "indices": {
+      "mobility": 2.42,
+      "intensity": 1.53,
+      "explosivity": 0.81
+    }
+  },
+  "55": {
+    "raw": {
+      "distance_total_m": 12.2,
+      "dynamic_efforts": 15,
+      "strong_dynamic_efforts": 13,
+      "max_acceleration_m_s2": 16.81,
+      "time_played_min": 0.21
+    },
+    "per_min": {
+      "distance_m_per_min": 58.1,
+      "efforts_per_min": 71.43
+    },
+    "percentiles": {
+      "distance": 50,
+      "efforts": 36,
+      "acceleration": 45
+    },
+    "indices": {
+      "mobility": 1.82,
+      "intensity": 1.51,
+      "explosivity": 0.87
+    }
+  },
+  "173": {
+    "raw": {
+      "distance_total_m": 2.3,
+      "dynamic_efforts": 7,
+      "strong_dynamic_efforts": 5,
+      "max_acceleration_m_s2": 7.71,
+      "time_played_min": 0.2
+    },
+    "per_min": {
+      "distance_m_per_min": 11.5,
+      "efforts_per_min": 35.0
+    },
+    "percentiles": {
+      "distance": 27,
+      "efforts": 18,
+      "acceleration": 22
+    },
+    "indices": {
+      "mobility": 0.36,
+      "intensity": 0.74,
+      "explosivity": 0.71
+    }
+  }
+}

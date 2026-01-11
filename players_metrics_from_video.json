@@ -1,0 +1,1322 @@
+{
+  "player_1": {
+    "raw": {
+      "distance_total_px": 1951.63,
+      "time_played_min": 0.41
+    },
+    "per_min": {
+      "distance_px_per_min": 4783.41,
+      "dynamic_efforts_per_min": 1269.61
+    },
+    "efforts": {
+      "dynamic": 518,
+      "strong": 232,
+      "explosive": 147
+    }
+  },
+  "player_8": {
+    "raw": {
+      "distance_total_px": 1160.25,
+      "time_played_min": 0.28
+    },
+    "per_min": {
+      "distance_px_per_min": 4163.58,
+      "dynamic_efforts_per_min": 1180.62
+    },
+    "efforts": {
+      "dynamic": 329,
+      "strong": 108,
+      "explosive": 49
+    }
+  },
+  "player_12": {
+    "raw": {
+      "distance_total_px": 320.07,
+      "time_played_min": 0.06
+    },
+    "per_min": {
+      "distance_px_per_min": 3200.74,
+      "dynamic_efforts_per_min": 690.0
+    },
+    "efforts": {
+      "dynamic": 69,
+      "strong": 33,
+      "explosive": 14
+    }
+  },
+  "player_15": {
+    "raw": {
+      "distance_total_px": 293.13,
+      "time_played_min": 0.12
+    },
+    "per_min": {
+      "distance_px_per_min": 2415.9,
+      "dynamic_efforts_per_min": 1046.7
+    },
+    "efforts": {
+      "dynamic": 127,
+      "strong": 18,
+      "explosive": 6
+    }
+  },
+  "player_16": {
+    "raw": {
+      "distance_total_px": 2948.66,
+      "time_played_min": 0.95
+    },
+    "per_min": {
+      "distance_px_per_min": 3108.22,
+      "dynamic_efforts_per_min": 1023.54
+    },
+    "efforts": {
+      "dynamic": 971,
+      "strong": 305,
+      "explosive": 83
+    }
+  },
+  "player_17": {
+    "raw": {
+      "distance_total_px": 394.3,
+      "time_played_min": 0.05
+    },
+    "per_min": {
+      "distance_px_per_min": 3943.01,
+      "dynamic_efforts_per_min": 580.0
+    },
+    "efforts": {
+      "dynamic": 58,
+      "strong": 43,
+      "explosive": 26
+    }
+  },
+  "player_18": {
+    "raw": {
+      "distance_total_px": 493.93,
+      "time_played_min": 0.16
+    },
+    "per_min": {
+      "distance_px_per_min": 3061.57,
+      "dynamic_efforts_per_min": 1035.12
+    },
+    "efforts": {
+      "dynamic": 167,
+      "strong": 44,
+      "explosive": 19
+    }
+  },
+  "player_20": {
+    "raw": {
+      "distance_total_px": 662.89,
+      "time_played_min": 0.14
+    },
+    "per_min": {
+      "distance_px_per_min": 4874.2,
+      "dynamic_efforts_per_min": 1183.82
+    },
+    "efforts": {
+      "dynamic": 161,
+      "strong": 67,
+      "explosive": 30
+    }
+  },
+  "player_21": {
+    "raw": {
+      "distance_total_px": 186.52,
+      "time_played_min": 0.05
+    },
+    "per_min": {
+      "distance_px_per_min": 1865.23,
+      "dynamic_efforts_per_min": 570.0
+    },
+    "efforts": {
+      "dynamic": 57,
+      "strong": 21,
+      "explosive": 8
+    }
+  },
+  "player_28": {
+    "raw": {
+      "distance_total_px": 933.05,
+      "time_played_min": 0.27
+    },
+    "per_min": {
+      "distance_px_per_min": 3464.31,
+      "dynamic_efforts_per_min": 1217.82
+    },
+    "efforts": {
+      "dynamic": 328,
+      "strong": 82,
+      "explosive": 33
+    }
+  },
+  "player_40": {
+    "raw": {
+      "distance_total_px": 252.48,
+      "time_played_min": 0.08
+    },
+    "per_min": {
+      "distance_px_per_min": 2524.77,
+      "dynamic_efforts_per_min": 860.0
+    },
+    "efforts": {
+      "dynamic": 86,
+      "strong": 24,
+      "explosive": 6
+    }
+  },
+  "player_45": {
+    "raw": {
+      "distance_total_px": 236.36,
+      "time_played_min": 0.1
+    },
+    "per_min": {
+      "distance_px_per_min": 2347.92,
+      "dynamic_efforts_per_min": 1013.25
+    },
+    "efforts": {
+      "dynamic": 102,
+      "strong": 21,
+      "explosive": 11
+    }
+  },
+  "player_46": {
+    "raw": {
+      "distance_total_px": 352.51,
+      "time_played_min": 0.08
+    },
+    "per_min": {
+      "distance_px_per_min": 3525.07,
+      "dynamic_efforts_per_min": 890.0
+    },
+    "efforts": {
+      "dynamic": 89,
+      "strong": 32,
+      "explosive": 21
+    }
+  },
+  "player_49": {
+    "raw": {
+      "distance_total_px": 1024.5,
+      "time_played_min": 0.25
+    },
+    "per_min": {
+      "distance_px_per_min": 4142.18,
+      "dynamic_efforts_per_min": 1156.33
+    },
+    "efforts": {
+      "dynamic": 286,
+      "strong": 99,
+      "explosive": 37
+    }
+  },
+  "player_65": {
+    "raw": {
+      "distance_total_px": 1262.87,
+      "time_played_min": 0.14
+    },
+    "per_min": {
+      "distance_px_per_min": 8851.92,
+      "dynamic_efforts_per_min": 1352.8
+    },
+    "efforts": {
+      "dynamic": 193,
+      "strong": 116,
+      "explosive": 80
+    }
+  },
+  "player_77": {
+    "raw": {
+      "distance_total_px": 273.58,
+      "time_played_min": 0.09
+    },
+    "per_min": {
+      "distance_px_per_min": 2735.84,
+      "dynamic_efforts_per_min": 910.0
+    },
+    "efforts": {
+      "dynamic": 91,
+      "strong": 18,
+      "explosive": 5
+    }
+  },
+  "player_84": {
+    "raw": {
+      "distance_total_px": 840.07,
+      "time_played_min": 0.12
+    },
+    "per_min": {
+      "distance_px_per_min": 6774.72,
+      "dynamic_efforts_per_min": 1314.52
+    },
+    "efforts": {
+      "dynamic": 163,
+      "strong": 100,
+      "explosive": 59
+    }
+  },
+  "player_86": {
+    "raw": {
+      "distance_total_px": 337.23,
+      "time_played_min": 0.13
+    },
+    "per_min": {
+      "distance_px_per_min": 2690.66,
+      "dynamic_efforts_per_min": 1069.15
+    },
+    "efforts": {
+      "dynamic": 134,
+      "strong": 19,
+      "explosive": 7
+    }
+  },
+  "player_109": {
+    "raw": {
+      "distance_total_px": 104.81,
+      "time_played_min": 0.04
+    },
+    "per_min": {
+      "distance_px_per_min": 1048.12,
+      "dynamic_efforts_per_min": 490.0
+    },
+    "efforts": {
+      "dynamic": 49,
+      "strong": 9,
+      "explosive": 2
+    }
+  },
+  "player_112": {
+    "raw": {
+      "distance_total_px": 1076.8,
+      "time_played_min": 0.22
+    },
+    "per_min": {
+      "distance_px_per_min": 4954.58,
+      "dynamic_efforts_per_min": 1205.52
+    },
+    "efforts": {
+      "dynamic": 262,
+      "strong": 116,
+      "explosive": 68
+    }
+  },
+  "player_113": {
+    "raw": {
+      "distance_total_px": 233.37,
+      "time_played_min": 0.06
+    },
+    "per_min": {
+      "distance_px_per_min": 2333.71,
+      "dynamic_efforts_per_min": 670.0
+    },
+    "efforts": {
+      "dynamic": 67,
+      "strong": 24,
+      "explosive": 11
+    }
+  },
+  "player_121": {
+    "raw": {
+      "distance_total_px": 363.87,
+      "time_played_min": 0.04
+    },
+    "per_min": {
+      "distance_px_per_min": 3638.74,
+      "dynamic_efforts_per_min": 510.0
+    },
+    "efforts": {
+      "dynamic": 51,
+      "strong": 37,
+      "explosive": 23
+    }
+  },
+  "player_124": {
+    "raw": {
+      "distance_total_px": 270.91,
+      "time_played_min": 0.08
+    },
+    "per_min": {
+      "distance_px_per_min": 2709.1,
+      "dynamic_efforts_per_min": 900.0
+    },
+    "efforts": {
+      "dynamic": 90,
+      "strong": 22,
+      "explosive": 9
+    }
+  },
+  "player_140": {
+    "raw": {
+      "distance_total_px": 127.88,
+      "time_played_min": 0.04
+    },
+    "per_min": {
+      "distance_px_per_min": 1278.82,
+      "dynamic_efforts_per_min": 440.0
+    },
+    "efforts": {
+      "dynamic": 44,
+      "strong": 10,
+      "explosive": 2
+    }
+  },
+  "player_144": {
+    "raw": {
+      "distance_total_px": 105.25,
+      "time_played_min": 0.05
+    },
+    "per_min": {
+      "distance_px_per_min": 1052.52,
+      "dynamic_efforts_per_min": 500.0
+    },
+    "efforts": {
+      "dynamic": 50,
+      "strong": 7,
+      "explosive": 1
+    }
+  },
+  "player_145": {
+    "raw": {
+      "distance_total_px": 917.17,
+      "time_played_min": 0.18
+    },
+    "per_min": {
+      "distance_px_per_min": 5231.02,
+      "dynamic_efforts_per_min": 1271.86
+    },
+    "efforts": {
+      "dynamic": 223,
+      "strong": 120,
+      "explosive": 59
+    }
+  },
+  "player_147": {
+    "raw": {
+      "distance_total_px": 212.13,
+      "time_played_min": 0.05
+    },
+    "per_min": {
+      "distance_px_per_min": 2121.35,
+      "dynamic_efforts_per_min": 530.0
+    },
+    "efforts": {
+      "dynamic": 53,
+      "strong": 17,
+      "explosive": 11
+    }
+  },
+  "player_176": {
+    "raw": {
+      "distance_total_px": 267.1,
+      "time_played_min": 0.04
+    },
+    "per_min": {
+      "distance_px_per_min": 2671.0,
+      "dynamic_efforts_per_min": 600.0
+    },
+    "efforts": {
+      "dynamic": 60,
+      "strong": 27,
+      "explosive": 10
+    }
+  },
+  "player_181": {
+    "raw": {
+      "distance_total_px": 793.22,
+      "time_played_min": 0.1
+    },
+    "per_min": {
+      "distance_px_per_min": 7932.17,
+      "dynamic_efforts_per_min": 1350.0
+    },
+    "efforts": {
+      "dynamic": 135,
+      "strong": 89,
+      "explosive": 53
+    }
+  },
+  "player_182": {
+    "raw": {
+      "distance_total_px": 293.54,
+      "time_played_min": 0.07
+    },
+    "per_min": {
+      "distance_px_per_min": 2935.36,
+      "dynamic_efforts_per_min": 890.0
+    },
+    "efforts": {
+      "dynamic": 89,
+      "strong": 34,
+      "explosive": 9
+    }
+  },
+  "player_188": {
+    "raw": {
+      "distance_total_px": 379.85,
+      "time_played_min": 0.06
+    },
+    "per_min": {
+      "distance_px_per_min": 3798.45,
+      "dynamic_efforts_per_min": 830.0
+    },
+    "efforts": {
+      "dynamic": 83,
+      "strong": 39,
+      "explosive": 18
+    }
+  },
+  "player_189": {
+    "raw": {
+      "distance_total_px": 140.29,
+      "time_played_min": 0.04
+    },
+    "per_min": {
+      "distance_px_per_min": 1402.92,
+      "dynamic_efforts_per_min": 530.0
+    },
+    "efforts": {
+      "dynamic": 53,
+      "strong": 14,
+      "explosive": 4
+    }
+  },
+  "player_195": {
+    "raw": {
+      "distance_total_px": 147.2,
+      "time_played_min": 0.05
+    },
+    "per_min": {
+      "distance_px_per_min": 1471.96,
+      "dynamic_efforts_per_min": 610.0
+    },
+    "efforts": {
+      "dynamic": 61,
+      "strong": 10,
+      "explosive": 1
+    }
+  },
+  "player_196": {
+    "raw": {
+      "distance_total_px": 434.55,
+      "time_played_min": 0.09
+    },
+    "per_min": {
+      "distance_px_per_min": 4345.45,
+      "dynamic_efforts_per_min": 1180.0
+    },
+    "efforts": {
+      "dynamic": 118,
+      "strong": 46,
+      "explosive": 20
+    }
+  },
+  "player_207": {
+    "raw": {
+      "distance_total_px": 368.94,
+      "time_played_min": 0.04
+    },
+    "per_min": {
+      "distance_px_per_min": 3689.43,
+      "dynamic_efforts_per_min": 490.0
+    },
+    "efforts": {
+      "dynamic": 49,
+      "strong": 41,
+      "explosive": 27
+    }
+  },
+  "player_223": {
+    "raw": {
+      "distance_total_px": 428.01,
+      "time_played_min": 0.04
+    },
+    "per_min": {
+      "distance_px_per_min": 4280.06,
+      "dynamic_efforts_per_min": 550.0
+    },
+    "efforts": {
+      "dynamic": 55,
+      "strong": 47,
+      "explosive": 34
+    }
+  },
+  "player_225": {
+    "raw": {
+      "distance_total_px": 1355.53,
+      "time_played_min": 0.19
+    },
+    "per_min": {
+      "distance_px_per_min": 7184.78,
+      "dynamic_efforts_per_min": 1393.99
+    },
+    "efforts": {
+      "dynamic": 263,
+      "strong": 181,
+      "explosive": 132
+    }
+  },
+  "player_233": {
+    "raw": {
+      "distance_total_px": 2378.26,
+      "time_played_min": 0.69
+    },
+    "per_min": {
+      "distance_px_per_min": 3433.48,
+      "dynamic_efforts_per_min": 991.82
+    },
+    "efforts": {
+      "dynamic": 687,
+      "strong": 261,
+      "explosive": 98
+    }
+  },
+  "player_243": {
+    "raw": {
+      "distance_total_px": 914.9,
+      "time_played_min": 0.07
+    },
+    "per_min": {
+      "distance_px_per_min": 9148.98,
+      "dynamic_efforts_per_min": 1010.0
+    },
+    "efforts": {
+      "dynamic": 101,
+      "strong": 90,
+      "explosive": 81
+    }
+  },
+  "player_251": {
+    "raw": {
+      "distance_total_px": 850.08,
+      "time_played_min": 0.09
+    },
+    "per_min": {
+      "distance_px_per_min": 8500.75,
+      "dynamic_efforts_per_min": 1330.0
+    },
+    "efforts": {
+      "dynamic": 133,
+      "strong": 115,
+      "explosive": 95
+    }
+  },
+  "player_263": {
+    "raw": {
+      "distance_total_px": 1968.35,
+      "time_played_min": 0.28
+    },
+    "per_min": {
+      "distance_px_per_min": 6930.82,
+      "dynamic_efforts_per_min": 1341.55
+    },
+    "efforts": {
+      "dynamic": 381,
+      "strong": 226,
+      "explosive": 115
+    }
+  },
+  "player_265": {
+    "raw": {
+      "distance_total_px": 923.74,
+      "time_played_min": 0.14
+    },
+    "per_min": {
+      "distance_px_per_min": 6566.86,
+      "dynamic_efforts_per_min": 1379.15
+    },
+    "efforts": {
+      "dynamic": 194,
+      "strong": 126,
+      "explosive": 69
+    }
+  },
+  "player_300": {
+    "raw": {
+      "distance_total_px": 1611.85,
+      "time_played_min": 0.23
+    },
+    "per_min": {
+      "distance_px_per_min": 7111.1,
+      "dynamic_efforts_per_min": 1367.65
+    },
+    "efforts": {
+      "dynamic": 310,
+      "strong": 216,
+      "explosive": 149
+    }
+  },
+  "player_303": {
+    "raw": {
+      "distance_total_px": 762.17,
+      "time_played_min": 0.08
+    },
+    "per_min": {
+      "distance_px_per_min": 7621.71,
+      "dynamic_efforts_per_min": 1140.0
+    },
+    "efforts": {
+      "dynamic": 114,
+      "strong": 88,
+      "explosive": 68
+    }
+  },
+  "player_312": {
+    "raw": {
+      "distance_total_px": 494.16,
+      "time_played_min": 0.04
+    },
+    "per_min": {
+      "distance_px_per_min": 4941.61,
+      "dynamic_efforts_per_min": 570.0
+    },
+    "efforts": {
+      "dynamic": 57,
+      "strong": 52,
+      "explosive": 50
+    }
+  },
+  "player_317": {
+    "raw": {
+      "distance_total_px": 669.12,
+      "time_played_min": 0.15
+    },
+    "per_min": {
+      "distance_px_per_min": 4521.05,
+      "dynamic_efforts_per_min": 1114.86
+    },
+    "efforts": {
+      "dynamic": 165,
+      "strong": 64,
+      "explosive": 48
+    }
+  },
+  "player_329": {
+    "raw": {
+      "distance_total_px": 965.85,
+      "time_played_min": 0.19
+    },
+    "per_min": {
+      "distance_px_per_min": 5137.51,
+      "dynamic_efforts_per_min": 1271.28
+    },
+    "efforts": {
+      "dynamic": 239,
+      "strong": 126,
+      "explosive": 45
+    }
+  },
+  "player_343": {
+    "raw": {
+      "distance_total_px": 1292.15,
+      "time_played_min": 0.2
+    },
+    "per_min": {
+      "distance_px_per_min": 6396.76,
+      "dynamic_efforts_per_min": 1356.44
+    },
+    "efforts": {
+      "dynamic": 274,
+      "strong": 178,
+      "explosive": 105
+    }
+  },
+  "player_345": {
+    "raw": {
+      "distance_total_px": 712.41,
+      "time_played_min": 0.11
+    },
+    "per_min": {
+      "distance_px_per_min": 6249.24,
+      "dynamic_efforts_per_min": 1394.74
+    },
+    "efforts": {
+      "dynamic": 159,
+      "strong": 98,
+      "explosive": 37
+    }
+  },
+  "player_352": {
+    "raw": {
+      "distance_total_px": 502.88,
+      "time_played_min": 0.05
+    },
+    "per_min": {
+      "distance_px_per_min": 5028.76,
+      "dynamic_efforts_per_min": 750.0
+    },
+    "efforts": {
+      "dynamic": 75,
+      "strong": 64,
+      "explosive": 42
+    }
+  },
+  "player_365": {
+    "raw": {
+      "distance_total_px": 548.31,
+      "time_played_min": 0.17
+    },
+    "per_min": {
+      "distance_px_per_min": 3276.75,
+      "dynamic_efforts_per_min": 1063.75
+    },
+    "efforts": {
+      "dynamic": 178,
+      "strong": 49,
+      "explosive": 24
+    }
+  },
+  "player_373": {
+    "raw": {
+      "distance_total_px": 650.55,
+      "time_played_min": 0.4
+    },
+    "per_min": {
+      "distance_px_per_min": 1637.3,
+      "dynamic_efforts_per_min": 790.27
+    },
+    "efforts": {
+      "dynamic": 314,
+      "strong": 40,
+      "explosive": 8
+    }
+  },
+  "player_375": {
+    "raw": {
+      "distance_total_px": 542.83,
+      "time_played_min": 0.18
+    },
+    "per_min": {
+      "distance_px_per_min": 3084.29,
+      "dynamic_efforts_per_min": 1261.36
+    },
+    "efforts": {
+      "dynamic": 222,
+      "strong": 64,
+      "explosive": 15
+    }
+  },
+  "player_379": {
+    "raw": {
+      "distance_total_px": 447.87,
+      "time_played_min": 0.09
+    },
+    "per_min": {
+      "distance_px_per_min": 4478.68,
+      "dynamic_efforts_per_min": 1090.0
+    },
+    "efforts": {
+      "dynamic": 109,
+      "strong": 60,
+      "explosive": 27
+    }
+  },
+  "player_384": {
+    "raw": {
+      "distance_total_px": 172.16,
+      "time_played_min": 0.06
+    },
+    "per_min": {
+      "distance_px_per_min": 1721.64,
+      "dynamic_efforts_per_min": 570.0
+    },
+    "efforts": {
+      "dynamic": 57,
+      "strong": 15,
+      "explosive": 5
+    }
+  },
+  "player_395": {
+    "raw": {
+      "distance_total_px": 459.62,
+      "time_played_min": 0.16
+    },
+    "per_min": {
+      "distance_px_per_min": 2958.94,
+      "dynamic_efforts_per_min": 1107.3
+    },
+    "efforts": {
+      "dynamic": 172,
+      "strong": 39,
+      "explosive": 20
+    }
+  },
+  "player_396": {
+    "raw": {
+      "distance_total_px": 271.48,
+      "time_played_min": 0.09
+    },
+    "per_min": {
+      "distance_px_per_min": 2714.77,
+      "dynamic_efforts_per_min": 1030.0
+    },
+    "efforts": {
+      "dynamic": 103,
+      "strong": 24,
+      "explosive": 8
+    }
+  },
+  "player_400": {
+    "raw": {
+      "distance_total_px": 209.46,
+      "time_played_min": 0.14
+    },
+    "per_min": {
+      "distance_px_per_min": 1475.05,
+      "dynamic_efforts_per_min": 887.32
+    },
+    "efforts": {
+      "dynamic": 126,
+      "strong": 4,
+      "explosive": 0
+    }
+  },
+  "player_405": {
+    "raw": {
+      "distance_total_px": 314.21,
+      "time_played_min": 0.31
+    },
+    "per_min": {
+      "distance_px_per_min": 998.56,
+      "dynamic_efforts_per_min": 603.81
+    },
+    "efforts": {
+      "dynamic": 190,
+      "strong": 8,
+      "explosive": 4
+    }
+  },
+  "player_406": {
+    "raw": {
+      "distance_total_px": 358.25,
+      "time_played_min": 0.06
+    },
+    "per_min": {
+      "distance_px_per_min": 3582.47,
+      "dynamic_efforts_per_min": 780.0
+    },
+    "efforts": {
+      "dynamic": 78,
+      "strong": 41,
+      "explosive": 19
+    }
+  },
+  "player_409": {
+    "raw": {
+      "distance_total_px": 555.39,
+      "time_played_min": 0.12
+    },
+    "per_min": {
+      "distance_px_per_min": 4628.23,
+      "dynamic_efforts_per_min": 1350.0
+    },
+    "efforts": {
+      "dynamic": 162,
+      "strong": 69,
+      "explosive": 22
+    }
+  },
+  "player_416": {
+    "raw": {
+      "distance_total_px": 71.54,
+      "time_played_min": 0.04
+    },
+    "per_min": {
+      "distance_px_per_min": 715.36,
+      "dynamic_efforts_per_min": 420.0
+    },
+    "efforts": {
+      "dynamic": 42,
+      "strong": 4,
+      "explosive": 0
+    }
+  },
+  "player_419": {
+    "raw": {
+      "distance_total_px": 208.08,
+      "time_played_min": 0.07
+    },
+    "per_min": {
+      "distance_px_per_min": 2080.81,
+      "dynamic_efforts_per_min": 740.0
+    },
+    "efforts": {
+      "dynamic": 74,
+      "strong": 8,
+      "explosive": 2
+    }
+  },
+  "player_432": {
+    "raw": {
+      "distance_total_px": 589.09,
+      "time_played_min": 0.23
+    },
+    "per_min": {
+      "distance_px_per_min": 2583.73,
+      "dynamic_efforts_per_min": 842.11
+    },
+    "efforts": {
+      "dynamic": 192,
+      "strong": 60,
+      "explosive": 23
+    }
+  },
+  "player_436": {
+    "raw": {
+      "distance_total_px": 187.68,
+      "time_played_min": 0.08
+    },
+    "per_min": {
+      "distance_px_per_min": 1876.79,
+      "dynamic_efforts_per_min": 890.0
+    },
+    "efforts": {
+      "dynamic": 89,
+      "strong": 12,
+      "explosive": 3
+    }
+  },
+  "player_444": {
+    "raw": {
+      "distance_total_px": 271.96,
+      "time_played_min": 0.06
+    },
+    "per_min": {
+      "distance_px_per_min": 2719.59,
+      "dynamic_efforts_per_min": 790.0
+    },
+    "efforts": {
+      "dynamic": 79,
+      "strong": 21,
+      "explosive": 7
+    }
+  },
+  "player_446": {
+    "raw": {
+      "distance_total_px": 198.14,
+      "time_played_min": 0.21
+    },
+    "per_min": {
+      "distance_px_per_min": 940.53,
+      "dynamic_efforts_per_min": 455.7
+    },
+    "efforts": {
+      "dynamic": 96,
+      "strong": 7,
+      "explosive": 2
+    }
+  },
+  "player_451": {
+    "raw": {
+      "distance_total_px": 71.87,
+      "time_played_min": 0.18
+    },
+    "per_min": {
+      "distance_px_per_min": 394.88,
+      "dynamic_efforts_per_min": 324.18
+    },
+    "efforts": {
+      "dynamic": 59,
+      "strong": 4,
+      "explosive": 0
+    }
+  },
+  "player_454": {
+    "raw": {
+      "distance_total_px": 366.51,
+      "time_played_min": 0.18
+    },
+    "per_min": {
+      "distance_px_per_min": 1984.69,
+      "dynamic_efforts_per_min": 411.55
+    },
+    "efforts": {
+      "dynamic": 76,
+      "strong": 32,
+      "explosive": 14
+    }
+  },
+  "player_472": {
+    "raw": {
+      "distance_total_px": 28.31,
+      "time_played_min": 0.15
+    },
+    "per_min": {
+      "distance_px_per_min": 194.77,
+      "dynamic_efforts_per_min": 178.9
+    },
+    "efforts": {
+      "dynamic": 26,
+      "strong": 0,
+      "explosive": 0
+    }
+  },
+  "player_479": {
+    "raw": {
+      "distance_total_px": 20.57,
+      "time_played_min": 0.13
+    },
+    "per_min": {
+      "distance_px_per_min": 153.49,
+      "dynamic_efforts_per_min": 97.01
+    },
+    "efforts": {
+      "dynamic": 13,
+      "strong": 0,
+      "explosive": 0
+    }
+  },
+  "player_488": {
+    "raw": {
+      "distance_total_px": 220.05,
+      "time_played_min": 0.75
+    },
+    "per_min": {
+      "distance_px_per_min": 292.36,
+      "dynamic_efforts_per_min": 253.76
+    },
+    "efforts": {
+      "dynamic": 191,
+      "strong": 0,
+      "explosive": 0
+    }
+  },
+  "player_489": {
+    "raw": {
+      "distance_total_px": 655.88,
+      "time_played_min": 0.75
+    },
+    "per_min": {
+      "distance_px_per_min": 876.06,
+      "dynamic_efforts_per_min": 411.4
+    },
+    "efforts": {
+      "dynamic": 308,
+      "strong": 47,
+      "explosive": 12
+    }
+  },
+  "player_490": {
+    "raw": {
+      "distance_total_px": 261.53,
+      "time_played_min": 0.75
+    },
+    "per_min": {
+      "distance_px_per_min": 347.47,
+      "dynamic_efforts_per_min": 239.15
+    },
+    "efforts": {
+      "dynamic": 180,
+      "strong": 3,
+      "explosive": 0
+    }
+  },
+  "player_491": {
+    "raw": {
+      "distance_total_px": 186.79,
+      "time_played_min": 0.6
+    },
+    "per_min": {
+      "distance_px_per_min": 312.35,
+      "dynamic_efforts_per_min": 484.95
+    },
+    "efforts": {
+      "dynamic": 290,
+      "strong": 2,
+      "explosive": 1
+    }
+  },
+  "player_492": {
+    "raw": {
+      "distance_total_px": 583.96,
+      "time_played_min": 0.71
+    },
+    "per_min": {
+      "distance_px_per_min": 818.64,
+      "dynamic_efforts_per_min": 454.21
+    },
+    "efforts": {
+      "dynamic": 324,
+      "strong": 19,
+      "explosive": 7
+    }
+  },
+  "player_493": {
+    "raw": {
+      "distance_total_px": 94.07,
+      "time_played_min": 0.61
+    },
+    "per_min": {
+      "distance_px_per_min": 153.04,
+      "dynamic_efforts_per_min": 97.61
+    },
+    "efforts": {
+      "dynamic": 60,
+      "strong": 2,
+      "explosive": 0
+    }
+  },
+  "player_494": {
+    "raw": {
+      "distance_total_px": 113.7,
+      "time_played_min": 0.62
+    },
+    "per_min": {
+      "distance_px_per_min": 182.99,
+      "dynamic_efforts_per_min": 133.58
+    },
+    "efforts": {
+      "dynamic": 83,
+      "strong": 7,
+      "explosive": 2
+    }
+  },
+  "player_495": {
+    "raw": {
+      "distance_total_px": 8.0,
+      "time_played_min": 0.04
+    },
+    "per_min": {
+      "distance_px_per_min": 80.0,
+      "dynamic_efforts_per_min": 60.0
+    },
+    "efforts": {
+      "dynamic": 6,
+      "strong": 0,
+      "explosive": 0
+    }
+  },
+  "player_499": {
+    "raw": {
+      "distance_total_px": 128.04,
+      "time_played_min": 0.06
+    },
+    "per_min": {
+      "distance_px_per_min": 1280.37,
+      "dynamic_efforts_per_min": 580.0
+    },
+    "efforts": {
+      "dynamic": 58,
+      "strong": 14,
+      "explosive": 2
+    }
+  },
+  "player_500": {
+    "raw": {
+      "distance_total_px": 52.91,
+      "time_played_min": 0.03
+    },
+    "per_min": {
+      "distance_px_per_min": 529.12,
+      "dynamic_efforts_per_min": 320.0
+    },
+    "efforts": {
+      "dynamic": 32,
+      "strong": 2,
+      "explosive": 0
+    }
+  },
+  "player_502": {
+    "raw": {
+      "distance_total_px": 192.85,
+      "time_played_min": 0.09
+    },
+    "per_min": {
+      "distance_px_per_min": 1928.47,
+      "dynamic_efforts_per_min": 920.0
+    },
+    "efforts": {
+      "dynamic": 92,
+      "strong": 13,
+      "explosive": 3
+    }
+  },
+  "player_505": {
+    "raw": {
+      "distance_total_px": 105.16,
+      "time_played_min": 0.05
+    },
+    "per_min": {
+      "distance_px_per_min": 1051.62,
+      "dynamic_efforts_per_min": 560.0
+    },
+    "efforts": {
+      "dynamic": 56,
+      "strong": 6,
+      "explosive": 1
+    }
+  },
+  "player_510": {
+    "raw": {
+      "distance_total_px": 221.17,
+      "time_played_min": 0.06
+    },
+    "per_min": {
+      "distance_px_per_min": 2211.71,
+      "dynamic_efforts_per_min": 690.0
+    },
+    "efforts": {
+      "dynamic": 69,
+      "strong": 18,
+      "explosive": 12
+    }
+  },
+  "player_512": {
+    "raw": {
+      "distance_total_px": 111.44,
+      "time_played_min": 0.06
+    },
+    "per_min": {
+      "distance_px_per_min": 1114.41,
+      "dynamic_efforts_per_min": 580.0
+    },
+    "efforts": {
+      "dynamic": 58,
+      "strong": 8,
+      "explosive": 4
+    }
+  },
+  "player_516": {
+    "raw": {
+      "distance_total_px": 86.24,
+      "time_played_min": 0.06
+    },
+    "per_min": {
+      "distance_px_per_min": 862.42,
+      "dynamic_efforts_per_min": 440.0
+    },
+    "efforts": {
+      "dynamic": 44,
+      "strong": 3,
+      "explosive": 0
+    }
+  },
+  "player_518": {
+    "raw": {
+      "distance_total_px": 89.77,
+      "time_played_min": 0.05
+    },
+    "per_min": {
+      "distance_px_per_min": 897.71,
+      "dynamic_efforts_per_min": 440.0
+    },
+    "efforts": {
+      "dynamic": 44,
+      "strong": 2,
+      "explosive": 0
+    }
+  },
+  "player_524": {
+    "raw": {
+      "distance_total_px": 50.52,
+      "time_played_min": 0.03
+    },
+    "per_min": {
+      "distance_px_per_min": 505.18,
+      "dynamic_efforts_per_min": 320.0
+    },
+    "efforts": {
+      "dynamic": 32,
+      "strong": 2,
+      "explosive": 1
+    }
+  }
+}

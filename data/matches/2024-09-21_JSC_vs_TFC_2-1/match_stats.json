@@ -1,0 +1,86 @@
+{
+  "teams": {
+    "team_0": {
+      "players": 11,
+      "distance_px_per_min_avg": 4514.44,
+      "distance_px_per_min_std": 2724.54
+    },
+    "team_1": {
+      "players": 11,
+      "distance_px_per_min_avg": 4102.91,
+      "distance_px_per_min_std": 2081.15
+    }
+  },
+  "players_vs_team": {
+    "player_16": {
+      "distance_vs_team": 0.76
+    },
+    "player_233": {
+      "distance_vs_team": 0.84
+    },
+    "player_1": {
+      "distance_vs_team": 1.17
+    },
+    "player_263": {
+      "distance_vs_team": 1.69
+    },
+    "player_489": {
+      "distance_vs_team": 0.21
+    },
+    "player_492": {
+      "distance_vs_team": 0.18
+    },
+    "player_300": {
+      "distance_vs_team": 1.58
+    },
+    "player_490": {
+      "distance_vs_team": 0.08
+    },
+    "player_488": {
+      "distance_vs_team": 0.07
+    },
+    "player_8": {
+      "distance_vs_team": 0.92
+    },
+    "player_225": {
+      "distance_vs_team": 1.59
+    },
+    "player_343": {
+      "distance_vs_team": 1.56
+    },
+    "player_65": {
+      "distance_vs_team": 1.96
+    },
+    "player_49": {
+      "distance_vs_team": 1.01
+    },
+    "player_112": {
+      "distance_vs_team": 1.1
+    },
+    "player_373": {
+      "distance_vs_team": 0.36
+    },
+    "player_28": {
+      "distance_vs_team": 0.84
+    },
+    "player_329": {
+      "distance_vs_team": 1.25
+    },
+    "player_145": {
+      "distance_vs_team": 1.16
+    },
+    "player_265": {
+      "distance_vs_team": 1.6
+    },
+    "player_84": {
+      "distance_vs_team": 1.5
+    },
+    "player_432": {
+      "distance_vs_team": 0.57
+    }
+  },
+  "match_reading": {
+    "dominant_mobility_team": "team_0",
+    "mobility_gap": 411.53
+  }
+}

@@ -1,6 +1,7 @@
 import streamlit as st
 from auth import authenticate
 import dashboard_app
+from contact import save_contact
 
 # =========================
 # CONFIG
